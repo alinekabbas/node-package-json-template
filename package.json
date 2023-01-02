@@ -1,0 +1,23 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "Aula de introdução ao back end e node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "brazil": "node index.js Brazil",
+    "empty": "node index.js",
+    "searchForLetterB": "node searchletter.js b",
+    "addCountry": "node addCountry.js Brlandia BR"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinekabbas/node-package-json-template.git"
+  },
+  "author": "Ammal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinekabbas/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/alinekabbas/node-package-json-template#readme"
+}
